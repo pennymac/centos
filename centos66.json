@@ -132,7 +132,8 @@
         "script/vagrant.sh",
         "script/vmtool.sh",
         "script/cmtool.sh",
-        "script/cleanup.sh"
+        "script/cleanup.sh",
+        "script/ruby215.sh"
       ],
       "type": "shell"
     }
